@@ -7,3 +7,6 @@ The 'Boundary Connectivity Project' is a proof of concept to showcase Boundary's
 3. Seamless access without Firewall Configuration, Private Network re-architecting or exposure, and credential management. 
 
 The main focus of this POC is to showcase Boundary acting as a connector to multiple HashiCorp tools such as Terraform, Vault, Nomad, Packer etc. 
+
+```Insert Architecture Diagram Later```
+
